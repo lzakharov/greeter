@@ -1,0 +1,9 @@
+# Scala
+*.class
+*.log
+
+# JetBrains
+.idea
+
+# OS X
+.DS_Store
